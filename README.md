@@ -1,5 +1,6 @@
-# VITYARTHI-PROJECT-AI-ML
-Self-Learning Console Chatbot (AI)
+# Self-Learning Console Chatbot (AI)
+Vityarthi AI-ML Project
+
 
 Overview of the Project
 
